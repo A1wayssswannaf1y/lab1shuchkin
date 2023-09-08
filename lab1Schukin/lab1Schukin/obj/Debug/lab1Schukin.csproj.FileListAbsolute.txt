@@ -1,0 +1,7 @@
+C:\Users\29345482\source\repos\lab1Schukin\lab1Schukin\obj\Debug\lab1Schukin.csprojAssemblyReference.cache
+C:\Users\29345482\source\repos\lab1Schukin\lab1Schukin\obj\Debug\lab1Schukin.csproj.CoreCompileInputs.cache
+C:\Users\29345482\source\repos\lab1Schukin\lab1Schukin\bin\Debug\lab1Schukin.exe.config
+C:\Users\29345482\source\repos\lab1Schukin\lab1Schukin\bin\Debug\lab1Schukin.exe
+C:\Users\29345482\source\repos\lab1Schukin\lab1Schukin\bin\Debug\lab1Schukin.pdb
+C:\Users\29345482\source\repos\lab1Schukin\lab1Schukin\obj\Debug\lab1Schukin.exe
+C:\Users\29345482\source\repos\lab1Schukin\lab1Schukin\obj\Debug\lab1Schukin.pdb
